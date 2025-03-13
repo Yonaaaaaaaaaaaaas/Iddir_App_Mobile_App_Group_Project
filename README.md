@@ -3,14 +3,24 @@
 Target Audience: Students
 
 Our Flashcard app is an educational app designed to help students learn and reinforce knowledge through flashcard quizzes. It provides two main buisness features:
-  1) Create Flashcard quizzes:
+  1) Create and maintain flashcards:
           
-       Students can easily create custom flashcards quizzes, by writing the questions and answer for any subject.
-  2) Take Flashcard Quiz exams:
+       Students can create custom flashcards, by writing the questions and answer for any subject.
+  2) Create and maintain study sessions
 
-       Students can take their custom created flashcard quizzes to test their knowledge.The App includes various quizzes and will track the users progress.
+       A "study session" is a scheduled or on-demand review of flashcards, tailored to the user’s goals.
 
-Our app will have a simple, intuitavely designed, user-friendly interface. That will have a Study mode, where students review flashcards without the exam pressure and an Exam mode. It will also have a Progress tracker that monitor quiz scores of our users to help students can look for improvements.
+Other features:
+
+1) It can group flashcards into decks.
+
+2) Decks can be grouped into a folder and folders can in turn be grouped into folders and so on.
+
+3) The tests can be given randomly or in sequence.
+
+4) It can archive flashcards so that already finished courses/subjects do not take up visual space.
+
+5) It has a streak feature to help keep learners engaged.
 
 
 |Group Name| Id no|
