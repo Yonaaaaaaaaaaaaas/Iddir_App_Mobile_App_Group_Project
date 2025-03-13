@@ -10,7 +10,7 @@ Our Flashcard app is an educational app designed to help students learn and rein
 
        Students can take their custom created flashcard quizzes to test their knowledge.The App includes various quizzes and will track the users progress.
 
-Our app will have a simple, intuitavely designed, user-friendly interface. That will have a Study mode, where students review flashcards without the exam pressure and an Exam mode. It will also have a Progress tracker that monitor quiz scores of our users. So students can look for improvemnets.
+Our app will have a simple, intuitavely designed, user-friendly interface. That will have a Study mode, where students review flashcards without the exam pressure and an Exam mode. It will also have a Progress tracker that monitor quiz scores of our users to help students can look for improvements.
 
 
 |Group Name| Id no|
