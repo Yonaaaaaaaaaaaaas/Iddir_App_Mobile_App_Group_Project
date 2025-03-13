@@ -1,21 +1,14 @@
 # Flashcard Quiz App
 
+Target Audience: Students
+
 Our Flashcard quizz app is an educational app designed to help students learn and reinforce knowledge through flashcard quizzes. It provides two main buisness features:
-  1) Create Flashcard quizzes:
-      
+  1) Create Flashcard quizzes:      
        Students can easily create custom flashcards quizzes, by writing the questions and answer for any subject.
   2) Take Flashcard Quiz exams:
-       
       Students can take their custom created flashcard quizzes to test their knowledge.The App includes various quiz modes(e.g multiple choice, True/False, fill in the blank) and will track the users progress.
 
-Target Audience: Students
-     
-What can you find in our app?
-  1) Create Custom Quizzes.
-  2) Study mode: Review flashcards without the exam pressure.
-  3) Exam mode: Users can take flashcards in sequence based on date of submission or take randomized flashcard quizzes. 
-  4) Progress Tracker: Monitor quiz scores and improvements over time.
-  5) User-friendly Interface: Simple, intuitive design to create and take quizzes effortlessly.
+Our app will have a simple, intuitavely designed, user-friendly interface. That will have a Study mode, where students review flashcards without the exam pressure and an Exam mode. It will also have a Progress tracker that monitor quiz scores of our users. So students can look for improvemnets.
 
 
 |Group Name| Id no|
