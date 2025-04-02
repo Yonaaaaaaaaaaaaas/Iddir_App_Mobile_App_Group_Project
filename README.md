@@ -27,7 +27,7 @@ The app will store all user and transaction data on the local device, and it wil
 
 ### 2. Emergency Support and Request System
    - Request for Assistance: Members can request emergency support (e.g., funeral assistance, medical support, etc.). The app allows users to submit a request with details such as the nature of the emergency and the amount of support required. All information will be stored locally.
-   - Community Contributions: Other members of the Iddir can contribute additional funds to support emergency requests. Contributions are stored and tracked locally.
+   - Community Contributions: Other members of the Iddir will be notified of emergency more efficiently and can contribute in additional funds to support emergency requests. Contributions are stored and tracked locally.
    - Approval and Coordination: The Iddir administrators can approve or deny requests, and they can manage the allocation of funds and other resources.
    - Notifications: The app will notify members when a support request is made, when contributions are collected, and when resources are distributed.
 
