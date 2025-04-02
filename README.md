@@ -13,7 +13,7 @@
 
 ## Description
 
-The Mobile Iddir App is a community-based mobile application designed to help Ethiopian communities manage their mutual aid societies (Iddirs). The app provides an efficient platform for managing subscriptions, payments, and emergency support requests among members of the Iddir. It is designed to work locally, meaning the entire app and its data will be stored and managed on the user’s device, ensuring the app works without needing any internet connection or external cloud services.
+The Mobile Iddir App is a community-based mobile application designed to help our local communities manage their mutual aid societies (Iddirs). The app provides an efficient platform for managing subscriptions, payments, and emergency support requests among members of the Iddir. It is designed to work locally, meaning the entire app and its data will be stored and managed on the user’s device, ensuring the app works without needing any internet connection or external cloud services.
 
 The app will store all user and transaction data on the local device, and it will allow members to interact with the app seamlessly without requiring an online connection.
 
