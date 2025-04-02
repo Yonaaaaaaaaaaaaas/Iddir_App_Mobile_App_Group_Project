@@ -1,27 +1,4 @@
-# Flashcard App
-
-Target Audience: Students
-
-Our Flashcard app is an educational app designed to help students learn and reinforce knowledge through flashcard quizzes. It provides two main buisness features:
-  1) Create and maintain flashcards:
-          
-       Students can create custom flashcards, by writing the questions and answer for any subject.
-  2) Create and maintain study sessions
-
-       A "study session" is a scheduled or on-demand review of flashcards, tailored to the user’s goals.
-
-Other features:
-
-1) It can group flashcards into decks.
-
-2) Decks can be grouped into a folder and folders can in turn be grouped into folders and so on.
-
-3) The tests can be given randomly or in sequence.
-
-4) It can archive flashcards so that already finished courses/subjects do not take up visual space.
-
-5) It has a streak feature to help keep learners engaged.
-
+# A local Iddir App
 
 |Group Name| Id no|
 |:---------|:-----|
@@ -30,3 +7,40 @@ Other features:
 |Samrawit Alemzewd|UGR/9726/15|
 |Yonas Degefu|UGR/6959/15|
 |Yusra Yakutelarsh|UGR/6201/13|
+
+
+# Mobile Iddir App
+
+## Description
+
+The Mobile Iddir App is a community-based mobile application designed to help Ethiopian communities manage their mutual aid societies (Iddirs). The app provides an efficient platform for managing subscriptions, payments, and emergency support requests among members of the Iddir. It is designed to work locally, meaning the entire app and its data will be stored and managed on the user’s device, ensuring the app works without needing any internet connection or external cloud services.
+
+The app will store all user and transaction data on the local device, and it will allow members to interact with the app seamlessly without requiring an online connection.
+
+## Features
+
+### 1. Subscription Management and Payment System
+   - User Registration and Profile Creation: Users can register, create profiles, and join an Iddir.
+   - Subscription Payment: Members can contribute regularly to the Iddir using various methods, including local payment tracking (e.g., cash payments, SMS-based reminders).
+   - Automatic Payment Reminders: The app will send notifications about upcoming subscription dues based on user input, ensuring timely payments even if the user is offline.
+   - Payment History: Users can view their payment history stored locally on the device.
+
+### 2. Emergency Support and Request System
+   - Request for Assistance: Members can request emergency support (e.g., funeral assistance, medical support, etc.). The app allows users to submit a request with details such as the nature of the emergency and the amount of support required. All information will be stored locally.
+   - Community Contributions: Other members of the Iddir can contribute additional funds to support emergency requests. Contributions are stored and tracked locally.
+   - Approval and Coordination: The Iddir administrators can approve or deny requests, and they can manage the allocation of funds and other resources. All coordination happens offline.
+   - Notifications: The app will notify members when a support request is made, when contributions are collected, and when resources are distributed, even if the app is used offline.
+
+### 3. Admin Dashboard (Offline)
+   - User Management: Admins can view and manage members, including their profiles, payment history, and participation in emergency support. All this data is stored on the device.
+   - Transaction History: Admins can view detailed logs of all transactions, including incoming payments and distributions for emergency support, stored locally on the device.
+   - Fundraising Events: Admins can create special fundraising events for larger emergencies, allowing the community to contribute to a pooled fund for more significant causes. This information is stored locally for offline access.
+
+## Technologies Used
+
+- Frontend: Jetpack Compose (Kotlin) - For building the UI and handling app layout and interactions in a native Android environment.
+- Local Storage: 
+  - Room Database: Used for storing user profiles, payment history, and support requests locally on the device.
+  - SharedPreferences: For storing smaller configuration settings, such as subscription reminders and basic user preferences.
+- Local Notifications: Used for sending reminders for payments and support requests without needing an internet connection.
+- Offline Data Sync: (Optional) If desired, the app can include functionality for syncing data with a server when an internet connection becomes available, but this is optional and not required for basic operation.
