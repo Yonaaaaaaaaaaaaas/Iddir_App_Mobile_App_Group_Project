@@ -22,7 +22,7 @@ The app will store all user and transaction data on the local device, and it wil
 ### 1. Subscription Management and Payment System
    - User Registration and Profile Creation: Users can register, create profiles, and join an Iddir.
    - Subscription Payment: Members can contribute regularly to the Iddir using various methods, including local payment tracking (e.g., cash payments, SMS-based reminders).
-   - Automatic Payment Reminders: The app will send notifications about upcoming subscription dues based on user input, ensuring timely payments even if the user is offline.
+   - Automatic Payment Reminders: The app will send notifications about upcoming subscription dues based on user input, ensuring timely payments.
    - Payment History: Users can view their payment history stored locally on the device.
 
 ### 2. Emergency Support and Request System
@@ -34,7 +34,7 @@ The app will store all user and transaction data on the local device, and it wil
 ### 3. Admin Dashboard (Offline)
    - User Management: Admins can view and manage members, including their profiles, payment history, and participation in emergency support. All this data is stored on the device.
    - Transaction History: Admins can view detailed logs of all transactions, including incoming payments and distributions for emergency support, stored locally on the device.
-   - Fundraising Events: Admins can create special fundraising events for larger emergencies, allowing the community to contribute to a pooled fund for more significant causes. This information is stored locally for offline access.
+   - Fundraising Events: Admins can create special fundraising events for larger emergencies, allowing the community to contribute to a pooled fund for more significant causes.
 
 ## Technologies Used
 
