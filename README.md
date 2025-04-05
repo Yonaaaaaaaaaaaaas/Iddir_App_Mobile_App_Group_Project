@@ -1,6 +1,6 @@
-# A local Iddir App
+# Iddir App
 
-|Group Name| Id no|
+|Name| ID No.|
 |:---------|:-----|
 |Biruk Dereje|UGR/6190/15|
 |Kalafat Tezazu|UGR/6048/15|
@@ -11,11 +11,12 @@
 
 ## Description
 
-The Mobile Iddir App is a community-based mobile application designed to help our local communities manage their mutual aid societies (Iddirs). The app provides an efficient platform for managing subscriptions, payments, and emergency support requests among members of the Iddir.
+The Iddir App is a community-based mobile application designed to help our local communities manage their mutual aid societies (Iddirs). The app provides an efficient platform for managing subscriptions, payments, and emergency support requests among members of the Iddir.
 
 ## Features
 
 ### 1. Subscription Management and Payment System
+   - User Registration and Profile Creation: Users can register, create profiles, and join an Iddir.
    - Subscription Payment: Members will contribute regularly to the Iddir using a payment method of their choice (Mobile banking, telebirr, and more), and they will upload the screenshot which will be verified by the adminstrator.
    - Automatic Payment Reminders: The app will send notifications about upcoming subscription dues, ensuring timely payments.
    - Payment History: Users can view their payment history stored locally on the device.
