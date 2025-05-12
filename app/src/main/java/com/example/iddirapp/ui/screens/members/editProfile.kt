@@ -166,7 +166,6 @@ fun EditProfileScreen(
     }
 }
 
-// Data class to hold profile info
 data class ProfileData(
     val fullName: String,
     val dateOfBirth: String,
