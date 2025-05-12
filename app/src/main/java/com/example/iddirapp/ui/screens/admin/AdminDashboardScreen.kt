@@ -1,4 +1,4 @@
-package com.example.iddirapp.ui.screens.Admin
+package com.example.iddirapp.ui.screens.admin
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
