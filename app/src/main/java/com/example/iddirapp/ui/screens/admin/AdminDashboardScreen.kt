@@ -20,6 +20,8 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.material.icons.filled.ArrowForward
+import androidx.navigation.NavHostController
+
 //import com.example.iddirapp.ui.components.BottomNavBar
 
 
@@ -62,7 +64,8 @@ fun DashboardButton(
 @Composable
 fun AdminDashboardScreen(
     selectedItem: String = "Members",
-    onNavItemClick: (String) -> Unit = {}
+    onNavItemClick: (String) -> Unit = {},
+    navController: NavHostController
 ) {
     Scaffold { innerPadding ->
         Column(
@@ -91,5 +94,5 @@ fun AdminDashboardScreen(
 @Preview(showBackground = true)
 @Composable
 fun AdminDashboardScreenPreview() {
-    AdminDashboardScreen()
+    AdminDashboardScreen(navController = rememberNavController())
 }
