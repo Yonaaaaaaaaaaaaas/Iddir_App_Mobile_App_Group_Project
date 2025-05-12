@@ -1,7 +1,7 @@
 # Iddir App
 
 |Name| ID No.|
-|:---------|:-----|
+|:---------|:-------|
 |Biruk Dereje|UGR/6190/15|
 |Kalafat Tezazu|UGR/6048/15|
 |Samrawit Alemzewd|UGR/9726/15|
